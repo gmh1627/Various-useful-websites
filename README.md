@@ -1,5 +1,6 @@
-# Various-useful-websites
+# Various-useful-websites 各种网站（学习资源、常用工具及其他）
 This repository collects CS/AI related learning resources, commonly used tools, and other websites.
+
 本仓库收集了CS/AI相关学习资源、常用工具及其他网站。
 ### 大学指南
 - [上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual)
