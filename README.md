@@ -1,7 +1,7 @@
 # 各种网站（学习资源、常用工具及其他）
 This repository collects CS/AI related learning resources, commonly used tools, and other websites.
 
-本仓库收集了CS/AI相关学习资源、常用工具及其他网站。
+本仓库收集了CS/AI相关学习资源、常用工具及其他网站，并会在笔者[个人博客](https://kangaroogao.github.io/)同步更新。
 ### 大学指南
 - [上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual)
 - [中国科学技术大学人工智能与数据科学学院本科进阶指南](https://advancedguideforsds.gitbook.io/advancedguide/)
