@@ -203,7 +203,7 @@ This repository collects CS/AI related learning resources, commonly used tools, 
 - [函数图像、数学计算器](https://www.desmos.com/)
 
 
-### [个人博客](../../links/)
+### [个人博客](https://kangaroogao.com/links/)
 ### 有趣的网站
 #### 中国铁路
 - [中国铁路在线地图](http://cnrail.geogv.org/zhcn/about)
