@@ -264,4 +264,4 @@ This repository collects CS/AI related learning resources, commonly used tools, 
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=gmh1627/Various-useful-websites&type=Date)](https://www.star-history.com/#gmh1627/Various-useful-websites&Date)
+![Star History Chart](https://api.star-history.com/svg?repos=gmh1627/Various-useful-websites&type=Date)
