@@ -236,6 +236,7 @@ This repository collects CS/AI related learning resources, commonly used tools, 
 - [卡尔维诺中文站](https://www.ruanyifeng.com/calvino/)
 - [图片转诗歌](https://photo2poem.top)
 - [中科大小游戏](http://home.ustc.edu.cn/~the_mailbox/cccc/index.html)
+- [SkyCOTL Tools](https://skycotl.tools/) - 《光·遇》免费网页助手，季节活动、蜡烛和游戏内追踪器
 - [小游戏代码实现](https://github.com/coding-horror/basic-computer-games)
 - [蓝绿界限区分](https://ismy.blue/)
 - [文风测试](https://testurtext.us/)
