@@ -201,6 +201,7 @@ This repository collects CS/AI related learning resources, commonly used tools, 
 - [代码转图片](http://carbon.now.sh)
 - [个人学术主页搭建](https://advancedguideforsds.gitbook.io/advancedguide/jin-jie-pian/chu-guo-2023.6.5-geng-xin/diy-shen-qing-ge-ren-xue-shu-zhu-ye-da-jian)
 - [函数图像、数学计算器](https://www.desmos.com/)
+- [Bucketlist.nl 每日体验 API（OpenAPI）](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json) - 无需密钥的每日旅行与生活体验 JSON 接口；默认荷兰语，可选英语等语言。
 
 
 ### [个人博客](https://kangaroogao.com/links/)
