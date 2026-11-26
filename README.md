@@ -261,6 +261,7 @@ This repository collects CS/AI related learning resources, commonly used tools, 
 - [地球另一端的位置](https://www.antipodesmap.com/)
 - [为什么给广告短信回复 TD 退订后没有用？](https://daily.zhihu.com/story/9726870)
 - [中国传统颜色](https://colors.ichuantong.cn/)
+- [演唱会 3D 选座视角模拟器（StagePeek）](https://stagepeek.live/zh-cn/)
 
 
 
